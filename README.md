@@ -2,7 +2,8 @@
 
 🔭 I’m currently working on:
 * [Skilled](https://skilled.co.il) - hire a high calibre Israeli freelancer.
-* [FrontWork.dev](https://frontwork.dev) - turn your designs into high quality code written by vetted engineers within 48 hours.
+* [Exodia.io](https://exodia.io) - analytics for NFT traders.
+* [CryptoFighters.io](https://cryptofighters.io) - 2018 NFT play to earn game.
 
 💬 Ask me about full-stack development and tips to ship products.
 
