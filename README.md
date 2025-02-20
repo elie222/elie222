@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on:
-* [Inbox Zero](https://www.getinboxzero.com/) - open source email tools to get to inbox zero fast with AI assistance.
+🔭 I’m building [Inbox Zero](https://www.getinboxzero.com/) - an open source AI email assistant.
 
-🎥 I run a [YouTube channel](https://youtube.com/elie2222) that takes a deep dive into the code behind a new open source project each week.
+🎥 I run a [YouTube channel](https://youtube.com/elie2222) that takes a deep dive into the code behind open source projects.
 
 🦉 Reach out to me on Twitter [@elie2222](https://twitter.com/elie2222).
